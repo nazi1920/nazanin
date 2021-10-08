@@ -1,3 +1,3 @@
 # nazanin
 # حل تمرین های گیت
-#soal2
+# soal2
